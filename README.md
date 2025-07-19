@@ -21,8 +21,7 @@
 
 
 shanu mathai
-Operation & HR Lead | GRC & Cybersecurity Professional | UAE Golden Visa Holder 
- +971 507848 398 | shanu17mathai@gmail.com  
+Operation & HR Lead | GRC & Cybersecurity Professional | UAE   
 
 Dynamic and results-driven professional with over 16 years of cross-functional experience in operation Management, HR administration and compliance, along with hands-on knowledge in Cybersecurity, GRC frameworks, and risk assessments. Proven ability to lead multi-disciplinary teams, streamline processes, manage HR functions, and support organizational security goals. Currently holding a UAE Golden Visa and open to both leadership roles in operations/HR and entry to mid-level positions in Cybersecurity or GRC
 
