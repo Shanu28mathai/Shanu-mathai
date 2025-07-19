@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brutnow-security-lab&label=Profile%20views&color=0e75b6&style=flat" alt="brutnow-security-lab" /> </p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=&theme=gruvbox-duo&hide_border=true&type=png&hide_total_contributions=true" alt="GitHub Streak" /></a>
-
 - 🔭 I’m currently working on [Brutnow security lab](https://github.com/Brutnow-Security-Lab)
 
 - 🌱 I’m currently learning **MCBTA, Advanced Pentesting, SAP administration, red teaming**
