@@ -19,36 +19,7 @@
 
 **Cybersecurity Professional| Cloud Security Specialist | Penetration Tester | OSINT Analyst**
 
-
-shanu mathai
-Operation & HR Lead | GRC & Cybersecurity Professional | UAE   
-
 Dynamic and results-driven professional with over 16 years of cross-functional experience in operation Management, HR administration and compliance, along with hands-on knowledge in Cybersecurity, GRC frameworks, and risk assessments. Proven ability to lead multi-disciplinary teams, streamline processes, manage HR functions, and support organizational security goals. Currently holding a UAE Golden Visa and open to both leadership roles in operations/HR and entry to mid-level positions in Cybersecurity or GRC
-
-**PROFESSIONAL EXPERIENCE**
-
-2020 – Present 
-Administrator | Allen & Blackstone (Sharjah Electricity project) | Sharjah, UAE
-
-    • Spearheaded daily administrative and personnel operations for a government-linked project. 
-    • Coordinated documentation processes and ensured compliance with SEWA regulations.
-    • Addressed stakeholder issues and improved administrative service response by 30%
-    • Maintained accurate HR, visa, and licensing records for 150+ staff
-
-2017 – 2019
-Operations Manager | Keep Castle Pvt. Ltd | Kochi, Kerala, India
-
-    • Managed full-spectrum operations including staffing, budgeting, and process implementation.
-    • Developed SOPs to improve operational efficiency by 25%
-    • Oversaw hiring and on-boarding processes for over 50 employees.
-    • Collaborated with management to ensure ISO compliance and streamline vendor management.
-
-2012 – 2017
-HR & Documentation Officer | Global Construction Co. (BPCL- EIL Project) | Kochi, Kerala, India
-
-    • Led HR admin functions, managed inspection and project documentation across engineering projects.
-    • Enhanced compliance accuracy by initiating internal HR audits.
-    • Ensured all project documentation met quality control and audit standards.
 
 **CYBERSECURITY & GRC PROJECT EXPERIENCE**
 
@@ -96,17 +67,4 @@ Tools: Nessus, Nmap,Gophish, OpenVAS, Wireshark, WordPress Security Plugins, Cyb
     • Inspection Documentation & Internal Audits
     • Client Engagement & Stakeholder Relations
 
-**Other information**
-
-    • Visa status: UAE Golden Visa Holder
-    • Driving License : UAE & India
-    • Languages : English, Malayalam, Hindi, Tamil, Basic Arabic
-    • Marital Status: Married
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brutnow-security-lab&show_icons=true&locale=en&layout=compact" alt="brutnow-security-lab" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brutnow-security-lab&show_icons=true&locale=en" alt="brutnow-security-lab" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brutnow-security-lab&" alt="brutnow-security-lab" /></p>
 
