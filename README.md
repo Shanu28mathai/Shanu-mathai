@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brutnow-security-lab&label=Profile%20views&color=0e75b6&style=flat" alt="brutnow-security-lab" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brutnow-security-lab" alt="brutnow-security-lab" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brutnow-security-lab" alt="brutnow-security-lab" /></a> </p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=)](https://git.io/streak-stats)
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=" alt="GitHub Streak" /></a>
 
 - 🔭 I’m currently working on [Brutnow security lab](https://github.com/Brutnow-Security-Lab)
 
